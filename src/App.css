@@ -1,0 +1,29 @@
+
+
+/* main */
+.btn{
+    background-color: #d7d7d7 !important;
+    color: #ffffff !important;
+    padding: 5px 20px !important;
+    margin-right: 10px;
+}
+.marginlft{
+    margin-left: 30%;
+}
+.icon{
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.accordion-body {
+    
+    height: 20rem;
+    /* background-color: yellow; */
+    overflow: scroll;
+}
+/* .clsborder [type=search] {
+   
+    border-style: none !important;
+} */
